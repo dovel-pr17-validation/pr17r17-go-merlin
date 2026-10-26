@@ -1,0 +1,7 @@
+.DS_STORE
+data/agents
+data/temp
+data/log
+.idea/
+.vscode
+Notes
